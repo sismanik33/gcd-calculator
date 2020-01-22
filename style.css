@@ -1,0 +1,30 @@
+.buttons{
+    display: inline-flexbox;
+    margin: 10px;
+}
+
+button{
+    font-size: medium;
+    padding: 10px;
+}
+#container{
+    margin: 10px;
+}
+
+.new-div{
+    display: inline-block;
+    border-style: solid;
+    padding: 10px;
+}
+label{
+    padding: 15px;
+}
+.inputs{
+    display: inline-block;
+    font-size: large;
+    background-color: gray;
+    padding: 20px;
+}
+
+input{
+}
